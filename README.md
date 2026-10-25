@@ -12,6 +12,10 @@ https://github.com/Yen-Chen-Huang/1151VR-HW3-412262448-YCH.git
 
 https://youtu.be/pHrCS9173WQ
 
+手機版
+
+https://youtu.be/l-no8nWZ6_4
+
 4. 說明製作流程和相關操作
 
 •	建立 2D 專案：在 Unity 中建立 2D 模板專案，並設置攝影機與背景顏色。
